@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "adb-mcp": {
+      "command": "node",
+      "args": ["/Users/erdalgunes/Documents/erdal-claude-code-data/adb-mcp/dist/index.js"]
+    }
+  }
+}
